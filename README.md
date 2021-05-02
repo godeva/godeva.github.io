@@ -1,7 +1,7 @@
-Author: Goutham Deva  
+# Personal Website for Goutham
+Since October 2017!
 
-https://godeva.github.io
+## Local dev
 
-WPI Hosted Link: http://users.wpi.edu/~godeva/
-
-Basic personal website to start off with for CS majors
+	$ npm install http-server -g
+	$ http-server [path] [options]
